@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Marcus 👋
+__TODO__
+
+## 🚀 About Me
+- Being working with AI, ML and Data Science for the past 6+ years.
 
 <!--
 **MarcusElwin/MarcusElwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
