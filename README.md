@@ -11,7 +11,7 @@ Data Scientist / Machine Learning Engineer turned Product Manager and vice versa
 ## Tech Stack
 Like the cool kids, I also want to show some icons.
 
-[![My Skills](https://skillicons.dev/icons?i=python,pycharm,vscode,typescript,java,aws,bash,docker,ubuntu,fastapi,gcp,githubactions,github,gitlab,mysql,postgres,pytorch,r,regex,sklearn,tensorlfow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,vscode,typescript,java,aws,bash,docker,ubuntu,fastapi,gcp,githubactions,github,gitlab,mysql,postgres,pytorch,r,regex,sklearn,tensorflow&perline=10)](https://skillicons.dev)
 
 ## 💻 Articles
 - [V-shaped Data Scientist in the era of Generative AI](https://blog.gopenai.com/v-shaped-data-scientist-in-the-era-of-generative-ai-b29f1bca93b7)
