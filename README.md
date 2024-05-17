@@ -7,7 +7,7 @@ __TODO__
 - I'm currently working at [PocketLaw](pocketlaw.com) which is a AI Legal Tech Startup.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ai,python,pycharm,vscode, typescript,java,aws,bash,docker,ubuntu,fastapi,gcp,githubactions,github,gitlab,mysql,postgres,pytorch,r,regex,sklearn,tensorflow&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,python,pycharm,vscode, typescript,java,aws,bash,docker,ubuntu,fastapi,gcp,githubactions,github,gitlab,mysql,postgres,pytorch,r,regex,sklearn,tensorflow)](https://skillicons.dev)
 
 <!--
 **MarcusElwin/MarcusElwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
