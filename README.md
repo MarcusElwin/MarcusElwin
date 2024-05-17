@@ -6,7 +6,7 @@ Data Scientist / Machine Learning Engineer turned Product Manager and vice versa
 ## ℹ️ About Me
 - 🤖 Been working with AI, ML and Data Science for the past 6+ years.
 - 🎯 I also have some background in product, as a Product Manager.
-- I'm currently working at [PocketLaw](pocketlaw.com) which is a AI Legal Tech Startup.
+- I'm currently working at [PocketLaw](pocketlaw.com) which is an AI Legal Tech Startup, based in Stockholm 🇸🇪.
 
 ## Tech Stack
 Like the cool kids, I also want to show some icons.
