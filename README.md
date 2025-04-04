@@ -4,9 +4,10 @@ Data Scientist / Machine Learning Engineer turned Product Manager and vice versa
 <!--![MarcusElwin's Stats](https://github-readme-stats.vercel.app/api?username=MarcusElwin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 ## ℹ️ About Me
-- 🤖 Been working with AI, ML and Data Science for the past 6+ years.
+- 🤖 Been working with AI, ML and Data Science for the past 7+ years.
 - 🎯 I also have some background in product, as a Product Manager.
 - I'm currently working at [PocketLaw](pocketlaw.com) which is an AI Legal Tech Startup, based in Stockholm 🇸🇪.
+- Data Scientist -> Product Manager -> AI Engineer
 
 ## Tech Stack
 Like the cool kids, I also want to show some icons.
