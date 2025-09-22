@@ -19,6 +19,8 @@ Like the cool kids, I also want to show some icons.
 - [NER using DSPy](https://dswithmac.com/posts/ner-dspy/)
 - [Unpopular opinion - It's harder than ever to be a good data scientist](https://towardsdatascience.com/unpopular-opinion-its-harder-than-ever-to-be-a-good-data-scientist-489df13b592c)
 - [Ten lessons building AI Agents in Legal Tech](https://medium.com/data-science-collective/ten-lessons-from-a-year-building-ai-agents-in-legaltech-86a77f515757)
+- [Agentic Commerce The Dawn of a new AI-driven era for ecommerce](https://www.umai-tech.com/blog/agentic-commerce-the-dawn-of-a-new-ai-driven-era-for-ecommerce)
+- [Taste in Software & AI Engineering](https://www.umai-tech.com/blog/taste-still-matters-in-ai-software-engineering-)
 
 <!--
 **MarcusElwin/MarcusElwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
