@@ -4,7 +4,7 @@ Data Scientist / Machine Learning Engineer turned Product Manager and vice versa
 <!--![MarcusElwin's Stats](https://github-readme-stats.vercel.app/api?username=MarcusElwin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 ## ℹ️ About Me
-- 🤖 Been working with AI, ML and Data Science for the past 7+ years.
+- 🤖 Been working with AI, ML and Data Science for the past 8+ years.
 - 🎯 I also have some background in product, as a Product Manager.
 - I'm currently working at [Kustom](https://www.kustom.co/) which is an fintech checkout platform scaleup, based in Stockholm 🇸🇪.
 - Data Scientist -> Product Manager -> AI Engineer -> AI Lead
